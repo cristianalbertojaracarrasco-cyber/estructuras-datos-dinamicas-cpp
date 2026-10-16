@@ -21,5 +21,7 @@ g++ -std=c++11 -Wall main.cpp -o estructuras
 
 ## Integrantes
 
-- [Nombre Apellido 1]
-- [Nombre Apellido 2]
+- Cristian Jara Carrasco
+- Nelida Vallejos Magaña
+- Leonel Varas Solis de Ovando
+- Juan Villacura Contreras
